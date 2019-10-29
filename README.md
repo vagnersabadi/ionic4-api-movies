@@ -30,7 +30,7 @@ O mais relevante dos outros arquivos pode ser o index.html, pois assim como com 
 #### From [Ionic Academy](https://ionicacademy.com). By Simon 
 #### From [Tutorials](https://ionicacademy.com/ionic-4-app-api-calls/).
 
-### Screan
+### Screen
 
 ![Farmers Market Finder Demo](ionic-4-movie-search-details.gif)
 ![Farmers Market Finder Demo](ionic-4-movie-search.gif)
